@@ -95,7 +95,7 @@ lab var Niveau_quintile "Niveau de vie"
 tab Niveau_quintile
 
 
-lab def Niveau_quintile 1 "Plus pauvre" 2 "Pauvre" 3 "Moyen" 4 "Riche" 5 "Plus riche", modify
+
 
 
 
